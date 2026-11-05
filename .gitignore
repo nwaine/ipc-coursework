@@ -1,0 +1,7 @@
+# Local / private
+.DS_Store
+*.pdf
+Receipts/*
+!Receipts/README.md
+Certificates/*
+!Certificates/README.md
